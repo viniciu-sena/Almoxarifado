@@ -19,12 +19,18 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/qrgen-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/jai-imageio-core-1.4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/jcommander-1.72.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/zxing-2.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/rt-2.3.3-b01.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/core-3.3.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Aluno/Downloads/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/bridj-0.6.2-windows-only.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/javase-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/qrgen-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/rt-2.3.3-b01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/slf4j-log4j12-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/webcam-capture-0.3.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aluno/eclipse-workspace/Almoxarifado/lib/zxing-2.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
