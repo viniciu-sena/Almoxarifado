@@ -42,8 +42,6 @@ public class ProdutoController {
 		try {
 			
 			
- 
-			
 			FileOutputStream f = new FileOutputStream(nomeArquivo);
 			ByteArrayOutputStream out = net.glxn.qrgen.QRCode.from(texto).to(ImageType.PNG).withSize(size, size).stream();
 
