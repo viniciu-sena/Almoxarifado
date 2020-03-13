@@ -34,9 +34,10 @@ public class ProdutoController {
 	public static void gerarCode(String texto) {
 
 		int size = 125; // TAMANHO DA IMAGEM
-		String nomeArquivo = "C:\\Users\\Aluno\\Desktop\\QR_Ferramentas\\produto_" + texto + ".png"; // CAMINHO ONDE VAI SE BAIXADO E NOME NO
+		String nomeArquivo = "C:\\Users\\Aluno\\Desktop\\QR_Ferramentas\\"
+				+ "produto_" + texto + ".png"; // CAMINHO ONDE VAI SE BAIXADO E NOME NO
 																			// ARQUIVO
-
+ 
 		try {
 
 			FileOutputStream f = new FileOutputStream(nomeArquivo);
