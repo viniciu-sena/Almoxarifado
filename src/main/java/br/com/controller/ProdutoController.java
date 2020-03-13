@@ -38,8 +38,12 @@ public class ProdutoController {
 				+ "produto_" + texto + ".png"; // CAMINHO ONDE VAI SE BAIXADO E NOME NO
 																			// ARQUIVO
  
+		
 		try {
-
+			
+			
+ 
+			
 			FileOutputStream f = new FileOutputStream(nomeArquivo);
 			ByteArrayOutputStream out = net.glxn.qrgen.QRCode.from(texto).to(ImageType.PNG).withSize(size, size).stream();
 
